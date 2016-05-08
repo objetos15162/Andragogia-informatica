@@ -8,7 +8,7 @@ import java.awt.Color;
  */
 public class Text extends Actor
 {
-    String[] texto = {"Hola", "padre", "Madre"
+    String[] texto = {"Hola", "padre", "escuela", "departamento", "hardware"
     };
     /**
      * Act - do whatever the Text wants to do. This method is called whenever
@@ -23,6 +23,10 @@ public class Text extends Actor
     public void MuestraPalabras()
     {
         setImage(new GreenfootImage(texto[2],75,Color.BLACK,Color.WHITE));
-        
+         for(int i = 0; i < 5; i++)
+        {
+            setImage(new GreenfootImage(texto[i],75,Color.BLACK,Color.WHITE));
+            Greenfoot.delay(50);
+        }
     }
 }

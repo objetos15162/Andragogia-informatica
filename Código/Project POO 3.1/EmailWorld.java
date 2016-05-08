@@ -8,24 +8,22 @@ import java.awt.Font;
  * @author (your name) 
  * @version (a version number or a date)
  */
-public class TecladoWorld extends World
+public class EmailWorld extends World
 {
 
     /**
-     * Constructor for objects of class TecladoWorld.
+     * Constructor for objects of class EmailWorld.
      * 
      */
-    public TecladoWorld()
+    public EmailWorld()
     {    
         // Create a new world with 700x700 cells with a cell size of 1x1 pixels.
-       super(700, 700, 1); 
-       GreenfootImage background = getBackground();
-       background.setColor(Color.WHITE);
-       background.fill();
+       super(1080, 675, 1);
        prepare();      
     }
     private void prepare()
     {
+        addObject(new Chrome(),105,660);
        
     } 
 }

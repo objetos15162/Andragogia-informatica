@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=k
+comment0.text=\r\n\ Write\ k\ description\ of\ class\ k\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (k\ version\ number\ or\ k\ date)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ k\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=2

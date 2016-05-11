@@ -1,0 +1,11 @@
+Cómo trabajar con archivos y programas
+
+A continuación, se muestra una ventana típica con sus principales partes:
+
+1. Abre el explorador de archivos que por lo general se encuentra anclado en la barra de tareas, tiene forma de una carperta amarilla.
+
+3. Aquí se muestran las carpetas en las que se organiza tu computadora, te recomiendo las explores todas, por el momento
+   elige la carpeta con el nombre "Documentos".
+2. Selecciona cualquier circulo numerado para obtener más información del área correspondiente.
+3. Y para agregar un nuevo elemento a la carpeta, seleccionar una vista o crear una nueva carpeta basta con que des 
+    clic derecho sobre un área en blanco.

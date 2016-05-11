@@ -1,0 +1,14 @@
+Escritorio, barra de tareas y ventanas.
+
+1. Sigue las instrucciones que aparecen a continuación. En el escritorio, puedes usar todo tipo de programas.   
+    Con el botón de inicio puedes acceder al menú principal de Windows (dar instrucciones para que oprima el botón).
+2. Vuelve a oprimir el botón para regresar al escritorio.
+3. Puedes agregar tus programas favoritos a la barra de tareas para acceder a ellos rápidamente. (dar instrucciones de señalar  para que el               usuario agregue y quite un programa a la barra de tareas).
+4. Y también puedes personalizar el escritorio con diferentes imagenes de fondo y colores. (dar instrucciones para que el usuario personalice
+     el escritorio; cambie el fondo y el color de la barra de tareas).
+5. Para cerrar una ventana sólo tienes que dar clic en el icono rojo que se encuentra en la esquina superior derecha de la ventana (señalar 
+     el icono y habilitar).
+
+
+http://windows.microsoft.com/es-es/windows-8/desktop-tutorial
+http://windows.microsoft.com/es-es/windows-8/use-the-taskbar  

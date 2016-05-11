@@ -20,7 +20,7 @@ public class EmailWorld extends World
         // Create a new world with 700x700 cells with a cell size of 1x1 pixels.
        super(1080, 675, 1);
        prepare(); 
-       Greenfoot.playSound("HOLO.wav");
+       //Greenfoot.playSound("HOLO.wav");
     }
     private void prepare()
     {

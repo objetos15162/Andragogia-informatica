@@ -1,0 +1,22 @@
+Correo Electrónico
+
+1. Es muy fácil  crear un correo electrónico, en este caso vamos a abrir un cuenta en gmail, sólo debes seguir las siguientes instrucciones:
+2. Primero abre el navegador Google Chrome (señalar el icono correspondiente).
+3. Ahora escribe en la barra de direcciones lo siguiente: www.gmail.com y oprime la tecla enter (habilitar para escritura la barra de direcciones
+    y poner como condición que escriba bien la dirección sino no puede avanzar).
+4. Aparecerá la página principal de gmail, alli haz clic en el botón "crear una cuenta".
+5. Veras que se abre un formulario, lo que haremos a continuación sera llenar los espacios con la información solicitada.
+6. En el campo nombre de usuario escribe el nombre que le daras a tu cuenta de correo.
+7. En el espacio contraseña debes escribir una palabra que funcione como tu clave, puedes usar una combinación entre
+    letras mayúsculas, minúsculas, números y caracteres especiales, elige una que puedas recordar facilmente pero que no sea fácil de deducir 
+    para otras personas, es muy importante que no compartas esta palabra pues es tu clave de acceso (habiliar los espacio
+     en blanco).      
+8. Por ultimo accepta las condiciones de servicio y la política de privacidad de Google, haciendo clic en la casilla que se encuentra de lado 
+    izquierdo, basicamente las políticas de privacidad te explican cómo gmail usa tus datos personales y cómo protege tu privacidad.
+    Por otro lado, las condiciones de servicio te muestran el uso adecuado que debes darle a tu cuenta de correo.
+    Da clic en siguiente paso (habilitar este objeto y la barra de desplazamiento para que pueda bajar la página).
+9. Veraz que se abre la página de bienvenida de Gmail alli haz clic en "ir a Gmail".  
+10. A continuación aparecen una serie de instrucciones que debes leer, sólo da clic en siguiente. 
+11.  Listo, este es tu buzón y es donde puedes leer los correos que llegan a tu cuenta.
+12 Para salir sólo debes dar clic en el este icono y presionar "cerrar sesión" (indicar a cuál botón me refiero).
+13. Cuando necesites volver a entrar dirigete a la página de gmail y vuelve a escribir tu cuenta de correo y la contraseña que elegiste. 

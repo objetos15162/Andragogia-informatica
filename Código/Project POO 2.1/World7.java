@@ -1,5 +1,5 @@
 import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
-
+import java.awt.Font;
 /**
  * Write a description of class CopyOfWorld2 here.
  * 
@@ -22,5 +22,8 @@ public class World7 extends World
     private void prepare()
     {
         addObject(new Desanclar(),293,620);
+        getBackground().setFont(new Font("", 0, 20));
+        getBackground().drawString("Después elige la opción Desanclar este programa de la barra de tareas.",590,300);
+        getBackground().drawString("de la barra de tareas.",590,330);
     }
 }

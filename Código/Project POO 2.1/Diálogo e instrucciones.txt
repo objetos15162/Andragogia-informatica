@@ -12,3 +12,4 @@ Escritorio, barra de tareas y ventanas.
 
 http://windows.microsoft.com/es-es/windows-8/desktop-tutorial
 http://windows.microsoft.com/es-es/windows-8/use-the-taskbar  
+http://windows.microsoft.com/es-mx/windows/desktop-overview#1TC=windows-7

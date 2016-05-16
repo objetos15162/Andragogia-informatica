@@ -1,5 +1,5 @@
 import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
-
+import java.awt.Font;
 /**
  * Write a description of class CopyOfWorld2 here.
  * 
@@ -22,5 +22,8 @@ public class World5 extends World
     private void prepare()
     {
         addObject(new Barra(),161,310);
+        getBackground().setFont(new Font("", 0, 20));
+        getBackground().drawString("Después selecciona Anclar a la barra de tareas.",590,300);
+        
     }
 }

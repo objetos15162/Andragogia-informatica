@@ -23,9 +23,9 @@ public class World8 extends World
     private void prepare()
     {
         getBackground().setFont(new Font("", 0, 20));
-        addObject(new Escritorio(),540,322);
+        addObject(new Escritorio(),750,322);
         getBackground().drawString("Da clic derecho sobre esta área para que",590,300);
         getBackground().drawString("aparezca el menú contextual.",590,334);
-        
+        getBackground().drawString("Luego selecciona Personalizar.",590,364);
     }
 }

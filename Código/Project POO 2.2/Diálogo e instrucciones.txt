@@ -9,3 +9,26 @@ A continuación, se muestra una ventana típica con sus principales partes:
 2. Selecciona cualquier circulo numerado para obtener más información del área correspondiente.
 3. Y para agregar un nuevo elemento a la carpeta, seleccionar una vista o crear una nueva carpeta basta con que des 
     clic derecho sobre un área en blanco.
+
+Panel izquierdo
+Usa el panel izquierdo para llegar a todo tipo de ubicaciones: las carpetas de tu PC, los dispositivos y las unidades conectadas a tu PC y otros equipos de la red. Pulsa o haz clic en una ubicación para ver su contenido en la lista de archivos, o pulsa o haz clic en una flecha para expandir una ubicación en el panel izquierdo.
+
+Botones atrás, adelante y arriba
+Usa el botón Atrás para volver a los resultados de la búsqueda o la última ubicación que viste, o el botón Adelante para volver a los siguientes resultados de búsqueda o ubicación. Usa el botón Arriba para abrir la ubicación en la que está guardada la carpeta que estás viendo.
+
+Cinta
+Usa la cinta para tareas comunes, como copiar y mover, crear nuevas carpetas, enviar elementos por correo electrónico y cambiar la vista. Las pestañas cambian para mostrar tareas adicionales que se aplican al elemento seleccionado. Si no ves la cinta, pulsa o haz clic en el botón Expandir la cinta en la esquina superior derecha o presiona Ctrl+F1.
+
+Barra de direcciones
+Usa la barra de direcciones para especificar o seleccionar una ubicación. Pulsa o haz clic en una parte de la ruta para ir a ese nivel, o pulsa o haz clic al final de la ruta para seleccionar la ruta para copiar.
+
+Lista de archivos
+Aquí es donde se muestra el contenido de la carpeta actual. También es donde aparecen los resultados de búsqueda cuando se escribe un término en el cuadro de búsqueda.
+
+Títulos de columna
+
+Cuadro de búsqueda
+Escribe una palabra o frase en el cuadro de búsqueda para buscar un elemento en la carpeta actual. Dado que la búsqueda se inicia en cuanto empiezas a escribir, si por ejemplo escribes "B", todos los archivos cuyo nombre empiece por la letra B se mostrarán en la lista de archivos.
+
+Barra de estado
+Usa la barra de estado para ver rápidamente el número total de elementos de una ubicación, o el número de elementos seleccionados y su tamaño total.

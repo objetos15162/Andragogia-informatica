@@ -6,8 +6,10 @@ Escritorio, barra de tareas y ventanas.
 3. Puedes agregar tus programas favoritos a la barra de tareas para acceder a ellos rápidamente. (dar instrucciones de señalar  para que el               usuario agregue y quite un programa a la barra de tareas).
 4. Y también puedes personalizar el escritorio con diferentes imagenes de fondo y colores. (dar instrucciones para que el usuario personalice
      el escritorio; cambie el fondo y el color de la barra de tareas).
-5. Para cerrar una ventana sólo tienes que dar clic en el icono rojo que se encuentra en la esquina superior derecha de la ventana (señalar 
-     el icono y habilitar).
+5.  Para modificar la imagen del fondo sólo debes ir a la opción Fondo de Escritorio y seleccionar tu preferida, también puedes cambiar el color de       la barra de tareas y ventanas en la opción Color.
+    
+    Para cerrar una ventana sólo tienes que dar clic en el icono rojo que se encuentra en la esquina superior derecha de la ventana (señalar 
+    el icono y habilitar).
 
 
 http://windows.microsoft.com/es-es/windows-8/desktop-tutorial

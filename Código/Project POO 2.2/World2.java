@@ -17,5 +17,12 @@ public class World2 extends World
     {    
         // Create a new world with 600x400 cells with a cell size of 1x1 pixels.
         super(1080, 675, 1); 
+        prepare();
+    }
+    private void prepare()
+    {
+        addObject(new Bdocumentos(),293,180);
+        GreenfootSound music0 = new GreenfootSound("1.wav"); 
+        music0.play();
     }
 }

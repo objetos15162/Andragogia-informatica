@@ -25,8 +25,8 @@ public class Personalizar extends Actor
             World w = getWorld();
             w = new World10();
             Greenfoot.setWorld(w);
-            //GreenfootSound music0 = new GreenfootSound("3.wav"); 
-            //music0.play();
+            GreenfootSound music0 = new GreenfootSound("6.wav"); 
+            music0.play();
       
         }
     }
